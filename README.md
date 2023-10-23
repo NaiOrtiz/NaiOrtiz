@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naiara</h1>
 <h3 align="center">I'm a beginner in programming, but I'd love to learn more and more!</h3>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlheGs1OTVhejlzZ3VtMmQybTQ4cWQ1NG1ieXJsNXpxcTlhcG1hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="300"
 - 🌱 I’m currently learning **Python, C++, MySQL Workbench. And.... PORTUGUESE!!**
 
 - 💬 Ask me about **I live in Argentina, I have 22 years old :D I speak spanish, english and a little bit of portuguese (OI!!).**
